@@ -81,3 +81,19 @@ The dream of self-driving cars has been around for decades, long before they bec
 6. Final report: A final report that summarizes the project and provides a detailed overview of the work that was completed, the results achieved, and the challenges encountered. The report should also include a discussion of future work that could be done to extend or improve the autonomous lane detection system.
 
 </br>
+
+
+# References
+
+Here are some open source references and descriptions that could be used in the Road Surface Segmentation using PiRacer project:
+
+1. OpenCV: OpenCV is a popular open-source computer vision library that provides a wide range of tools and algorithms for image and video processing. Participants could use OpenCV for pre-processing the video footage, extracting features, and identifying the lane markings.
+    Link: [https://opencv.org/](https://opencv.org/)
+
+2. TensorFlow: TensorFlow is an open-source machine learning framework that provides a wide range of tools for training deep neural networks. Participants could use TensorFlow for training a deep neural network for identifying extracted lane markings.
+    Link: https://www.tensorflow.org/
+
+
+
+
+These references are just examples and participants are encouraged to explore other open-source tools and resources that may be more suitable for their specific needs and requirements. Participants should be prepared to research and evaluate different open-source tools and resources, and to make informed decisions about which tools and resources to use for their projects.
