@@ -68,6 +68,11 @@ The dream of self-driving cars has been around for decades, long before they bec
 
 
 ## Evaluation
+In this project, every team must host ONE final submission demo & presentation (max. 30 mins) in front of all the other teams. Each team must find a way to organize this presentation making sure that all the other teams can be present and participate actively (Please work out what date/time works the best for every team). The date and time of each team's presentation must be communicated to staff well in advance (at least a week in advance). It is presenting team's responsibility to make sure that all the forms are filled in **immediately** after the presentation.
+
+This project has two evaluation forms:
+1. For evaluators (the audience) - Fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSe7AKrza228fzdDNgevTw4Gsz-ARlWcbtQmXn8JAEYaj24mzw/viewform?usp=sf_link) to evaluate the presenting team's final project submission
+2. For evaluatee (the presentor) - Fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSfYipLAaXFaAm23ZdW8ruXCfQDOXikLYwhxXwpve9C5kZoZvw/viewform?usp=sf_link) for general feedback on your workings on this project.
 
 </br>
 
